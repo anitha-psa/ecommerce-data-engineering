@@ -1,0 +1,11 @@
+Item Type,Category,Is Perishable,Avg Weight (kg)
+Office Supplies,Stationery,No,1.2
+Fruits,Food,Yes,0.3
+Clothes,Apparel,No,0.5
+Baby Food,Food,Yes,0.4
+Cereal,Food,Yes,0.6
+Household,Cleaning,No,1.5
+Beverages,Drinks,Yes,1.0
+Snacks,Food,Yes,0.8
+Meat,Protein,Yes,2.0
+Personal Care,Hygiene,No,0.9
